@@ -1,15 +1,15 @@
-@font-face {
-  font-family: 'Goudy';
+/* @font-face {
+  font-family: Inconsolata;
   src: url('../fonts/OFLGoudyStMTT.ttf');
 }
 @font-face {
-  font-family: 'Goudy';
+  font-family: Inconsolata;
   font-style: italic;
   src: url('../fonts/OFLGoudyStMTT-Italic.ttf');
 }
-
+*/ 
 body {
-  font: 18px "Goudy" "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font: 35px Inconsolata, sans-serif;
   background: #778;
   padding: 0;
   margin: 0;
@@ -76,7 +76,7 @@ div.slide.last {
 
 
 div.slide p {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .slide.far-past {
@@ -114,7 +114,7 @@ body.three-d div.slides {
 /* Content */
 
 header:not(:only-child) {
-  font-family: 'Goudy';
+  font-family: Inconsolata;
   font-weight: normal;
   font-size: 63px;
   letter-spacing: -.05em;
@@ -129,7 +129,7 @@ header:not(:only-child) {
 
 header h1, header h2 {
   display: inline;
-  font-size: 100%;
+  font-size: 140%;
   font-weight: normal;
   padding: 0;
   margin: 0;
@@ -140,7 +140,7 @@ header h2:first-child {
 }
 
 section, .slide header:only-child h1 {
-  font-family: 'Goudy';
+  font-family: Inconsolata;
   color: #ffffff;
   text-shadow: rgba(127, 127, 127, 0.2) 0 2px 5px;
   margin-left: 30px;
@@ -171,7 +171,7 @@ pre {
 
 li {
   padding: 10px 0;
-  font-size: 25px;
+/*  font-size: 25px; */
 }
 
 .slide header:only-child h1 {
@@ -186,9 +186,10 @@ li {
   margin-bottom:100px;
 }
 
-.slide:first-child header:only-child h1 { /* Header on first slide shouldn't overlap with the machinalis logo */
+/* .slide:first-child header:only-child h1 { /* Header on first slide shouldn't overlap with the machinalis logo */
   vertical-align: top;
 }
+*/
 
 .sidebar {
   background: -webkit-gradient(linear, top right, bottom right, from(#dde), to(#fff));
