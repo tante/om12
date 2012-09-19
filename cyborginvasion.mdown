@@ -13,19 +13,36 @@
 
 # Cyborgs? 
 
+# Presenter Notes
+
+- Wir alle haben da irgendwelche Vorstellungen
+- Es klingt immer nach SciFi
+
 ---
 # Cyborgs!
 
 ![Robocop](images/robocop.jpg)
 (Robocop (c) Orion Pictures 1987)
+
+# Presenter Notes
+
+- Polizist Alex Murphy wird nach Tod wiederbelebt
+- von "böser" Firma OCP
+
 ---
 # Besser als fiktive Cyborgs? <br>Echte Cyborgs!
 
 ![Oscar Pistorius](images/pistorius.jpg)
 (Oscar Pistorius by Andrew Medichini/Associated Press)
 
+# Presenter Notes
+
+- erster beinamputierter Athlet bei olympischen Spielen (2012)
+- Körperlicher "Defekt" repariert
+- Beine sehen "anders" aus 
+
 ---
-# Turn it up a notch
+# Neue/andere Sinne
 
 ![Neil Harbisson](images/Neil_Harbisson_Cyborg.jpg)
 Neil Harbisson mit seinem Eyeborg Implantat
@@ -34,9 +51,34 @@ Erster "staatlich anerkannter" Cyborg
 
 # Presenter Notes
 
-  - wurde mit Achromatopsie gebohren
-  - konnte nur schwarz/weiß sehen
-  - Eyeborg setzt Farben in Töne um, Neil hört Farben
+- wurde mit Achromatopsie gebohren
+- konnte nur schwarz/weiß sehen
+- Eyeborg setzt Farben in Töne um, Neil hört Farben
+- Neil ersetzt wie Pistorius fehlendes "feature"
+- Aber durch _neuen_ Sinn
+
+---
+# Lebenserhaltung
+
+![Herzschrittmacher](images/schrittmacher.jpg)
+(Herzschrittmacher, Bild J. Heuser, Wikimedia Commons)
+
+---
+
+# Und Du?
+
+# Presenter Notes
+
+- man könnte uns alle als Cyborgs sehen
+- Smartphones, Kontaktmanagement, usw
+
+---
+# Definition Cyborg
+
+.fx: bigtext
+
+"Der Begriff Cyborg (von <b>cyb</b>ernetic <b>org</b>anism)<br> bezeichnet ein<br> **Mischwesen** aus <br>**lebendigem Organismus** und<br> **Maschine**."
+<span style="font-size:25px">(Wikipedia)</span>
 
 ---
 
