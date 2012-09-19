@@ -67,13 +67,6 @@ div.slide {
   -moz-border-radius-bottomleft: 20px;
   -webkit-border-bottom-left-radius: 20px;
 }
-
-div.slide ul{
-   text-align:left;
-}
-div.slide ol{
-   text-align:left;
-}
 /* Expose */
 
 body.expose div.slides {
@@ -344,6 +337,11 @@ section img.align-left {
   margin-left: 0;
 }
 
+section {
+   text-align: center;
+   height: auto;
+}
+
 a {
   color: inherit;
   display: inline-block;
@@ -359,6 +357,27 @@ pre {
 
 li {
   padding: 10px 0;
+  font-size: 30px;
+}
+
+div.slide ul{
+   text-align:left;
+}
+div.slide ol{
+   text-align:left;
+}
+
+div.slide p{
+    font-size: 30px;
+}
+
+div.slide strong{
+    background: white;
+    color: black;
+}
+
+.bigtext section p{
+   font-size: 50px;
 }
 
 .slide header:only-child h1 {
@@ -465,6 +484,7 @@ aside {
     position: absolute;
     bottom: 6px;
     left: 350px;
+    font-size: 15px;
   }
 
 .notes {
