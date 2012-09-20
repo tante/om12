@@ -224,6 +224,7 @@ body.presenter_view div#current_presenter_notes section p  {
 body.presenter_view div#current_presenter_notes section li   {
     margin: 0;
     padding: 0px;
+    text-align: left;
 }
 
 body.presenter_view div#current_presenter_notes h1 {
