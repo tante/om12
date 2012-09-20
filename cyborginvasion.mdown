@@ -221,8 +221,13 @@ Erster "staatlich anerkannter" Cyborg
 
 --- 
 
-# Folien unter 
+* Folien:
+    * [http://the-gay-bar.com/talks/om12/](http://the-gay-bar.com/talks/om12)
+    * [https://github.com/tante/om12](https://github.com/tante/om12)
 
-* [http://the-gay-bar.com/talks/om12/](http://the-gay-bar.com/talks/om12)
-* [https://github.com/tante/om12](https://github.com/tante/om12)
+* Contact:
+    * [http://twitter.com/tante](@tante)
+    * [mailto:tante@the-gay-bar.com](tante@the-gay-bar.com)
+    * tante@jabber.org
+
 
