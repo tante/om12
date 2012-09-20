@@ -71,6 +71,7 @@ Erster "staatlich anerkannter" Cyborg
 
 - man könnte uns alle als Cyborgs sehen
 - Smartphones, Kontaktmanagement, usw
+- Brillen?
 
 ---
 # Definition Cyborg
@@ -80,32 +81,148 @@ Erster "staatlich anerkannter" Cyborg
 "Der Begriff Cyborg (von <b>cyb</b>ernetic <b>org</b>anism)<br> bezeichnet ein<br> **Mischwesen** aus <br>**lebendigem Organismus** und<br> **Maschine**."
 <span style="font-size:25px">(Wikipedia)</span>
 
+# Presenter Notes
+
+- sehr generisch
+
 ---
+# Ich, Cyborg? Nevah!
 
-- Warum stoßen wir uns daran selbst Cyborgs zu sein?
-- Weil Cyborg immer mit Körper gedacht wird
-    - beine neu
-    - Neuer Sinn f. physische welt
-- Unsere Modifikation ist nicht fest mit uns verbunden, ist extern
-- Aber nicht weniger relevant:
-   - meine Leistungen sind ohne mein technisches Netzwerk massiv eingeschränkt
-   - "Offline" is a bug, weil online-sein Teil von mir ist
+- Mensch immer körperbezogen gedacht:
+    - Rechtsfähigkeit beginnt mit Geburt (§1 BGB) und endet mit Tod
+    - Definition des Menschen ist biologisch/körperlich
+- Cyborg erbt als Mischwesen die Sichtweise
 
-- Rechtlich:
-  - Behindertem darf man prothese nicht entfernen
-  - Mein Smartphone ist nicht geschützt
+=> "Mensch ist der Körper und was drin ist"
 
+# Presenter Notes
 
-- Abgesang auf die Natürlichkeit: 
-   - Das ist schon lange vorbei
-- Embrace H+
-   - Rechntliche Baustelle:
-      - Man kann Daten nicht besitzen
-      - Wie ist der Bezug von Menschen zu Daten, die sie nutzen?
-      - 
+---
+# Lange Tradition
 
-Forderung zum Ende:
-[griffiger Claim]
+- Religiös: Gott als Schöpfer des Menschen/der Natur
+    - Eingriff in die Natur ist folglich gegen Gott
+- Hype der Natürlichkeit
+    - Ablehnung von Gentechnik/Chemie weil "unnatürlich"
+    - "Ich will keine Chemie in meinem Essen haben." o.O
+- Pragmatismus
+    - Definition über Körper ist "leicht"
+
+# Presenter Notes
+
+- funktionierte "früher(TM)"
+- und heute?
+---
+# Realität
+
+- Zeugnisverweigerungrecht
+    - Keine Pflicht die Wahrheit zu sagen oder sich zu belasten
+    - “nemo tenetur” (§136 I S.2 StPO)
+- Aber! 
+    - Beschlagnahme von Rechnern
+    - Zugriff auf Accounts (mithilfe der Anbieter)
+
+# Presenter Notes
+
+- Unsere Rechtssituation ignoriert heutiges Leben
+- klingt gut, ist aber nicht, was wir wollen
+
+---
+# Ich bin ein Knoten in einem soziotechnischen System, einem Netzwerk.
+
+# Presenter Notes
+
+- "soziotechnisches System": organisierte Menge von Menschen und Technologien
+- Technologie verschmilzt untrennbar mit den Individuen
+- UND der Gemeinschaft!
+- Ich bin "amputiert" ohne meine technischen Erweiterungen, Kontakte, Wissen,
+
+---
+# Beispiel: "Neue Sinne"
+
+- Ich spüre mein soziales Netz
+    - Latitude/Foursquare
+    - social Networks
+- Ich sehe eine augmentierte Welt
+    - Wikitude
+    - Google's Project Glass
+
+# Presenter Notes
+
+- Der Widerspruch "Ich==Cyborg" ist sogar falsch
+- Unsere technischen Erweiterungen passen genau ins akzeptierte Schema:
+- Neue Sinne, Reparatur kaputter Sinne, Verbesserunge existierender Sinne
+- Daraus folgt:
+
+---
+# Transhumanismus light
+
+.fx: bigtext
+
+<br>
+
+"You don't **have** a mind. You **are** a mind, you **have** a body."
+
+<span style="font-size:25px">frei nach George MacDonald</span>
+
+# Presenter Notes
+
+- originalquote: "Never tell a child, you have a soul. Teach him, you are a soul; you have a body.’
+- oft fälschlich C.S. Lewis zugeschrieben (Narnia)
+- Überwindung der Bindung von Mensch an den natürlichen Körper
+- Mensch ist ein Bewusstsein, welches sich seiner bewusst ist
+
+---
+# Was folgt?
+
+# Presenter Notes
+
+- Wenn wir uns vom Körper lösen, was bedeutet das
+- Was müssen wir ändern?
+
+---
+# Recht auf Modifikation des eigenen Körpers.
+
+# Presenter Notes
+
+- mein Körper ist mein Besitz
+- nur freiwillig
+    - Kein Zwang eine Niere zu verkaufen
+- aber ohne die bestehenden Hürden
+
+---
+# Recht auf digitale Unversehrtheit.
+
+# Presenter Notes
+
+- mich von meinen Daten abzuschneiden ist illegal
+    - sie kopieren kann erlaubt sein (vgl. Fingerabdrucknahme)
+- erzwungene Accountschließungen
+- DDOS auf meinen Datenspeicher ist körperlichen Angriffen gleichzustellen
+
+---
+# Recht auf Teilhabe am Netz.
+
+# Presenter Notes
+
+- Mich vom soziotechnischen Netz zu trennen nimmt mir Menschlichkeit
+- Netzzugang ist Menschenrecht (nicht nur Bürgerrecht!)
 
 --- 
+# Let's fix it.
+
+# Presenter Notes
+
+- Viel Arbeit
+- Änderung der Perspektive gesamtgesellschaftliches Problem
+
+---
 # Danke
+
+--- 
+
+# Folien unter 
+
+* [http://the-gay-bar.com/talks/om12/](http://the-gay-bar.com/talks/om12)
+* [https://github.com/tante/om12](https://github.com/tante/om12)
+
