@@ -16,7 +16,7 @@
 # Presenter Notes
 
 - Wir alle haben da irgendwelche Vorstellungen
-- Es klingt immer nach SciFi
+- Es klingt immer nach SciFi, irreal
 
 ---
 # Cyborgs!
@@ -27,7 +27,9 @@
 # Presenter Notes
 
 - Polizist Alex Murphy wird nach Tod wiederbelebt
-- von "böser" Firma OCP
+- von "böser" Firma OCP um "das Recht(TM)" durchzusetzen
+- prägend fürs Bild
+- Analog "Locutus of Borg"
 
 ---
 # Besser als fiktive Cyborgs? <br>Echte Cyborgs!
@@ -40,6 +42,7 @@
 - erster beinamputierter Athlet bei olympischen Spielen (2012)
 - Körperlicher "Defekt" repariert
 - Beine sehen "anders" aus 
+- Sonst aber typischer Mensch
 
 ---
 # Neue/andere Sinne
@@ -63,6 +66,11 @@ Erster "staatlich anerkannter" Cyborg
 ![Herzschrittmacher](images/schrittmacher.jpg)
 (Herzschrittmacher, Bild J. Heuser, Wikimedia Commons)
 
+# Presenter Notes
+
+- "unsichtbare" Cyborgs
+- Maschinenteile sind nicht nur "nice to have" sondern lebenserhaltend
+
 ---
 
 # Und Du?
@@ -84,6 +92,8 @@ Erster "staatlich anerkannter" Cyborg
 # Presenter Notes
 
 - sehr generisch
+- Es gibt spezifischere Definitionen (_muss_ elektronisch sein, _muss_ Gegenstand sein)
+- Aber die Trennlinie zu ziehen ist oft ziemlich arbiträr
 
 ---
 # Ich, Cyborg? Nevah!
@@ -96,6 +106,9 @@ Erster "staatlich anerkannter" Cyborg
 => "Mensch ist der Körper und was drin ist"
 
 # Presenter Notes
+
+- Geburt und Tod sind körperlich gedacht 
+- (vgl. Probleme bei der Frage wann Maschinen abzustellen sind)
 
 ---
 # Lange Tradition
@@ -121,6 +134,7 @@ Erster "staatlich anerkannter" Cyborg
 - Aber! 
     - Beschlagnahme von Rechnern
     - Zugriff auf Accounts (mithilfe der Anbieter)
+    - Sperrung des Zugangs zur eigenen Infrastruktur
 
 # Presenter Notes
 
@@ -167,9 +181,9 @@ Erster "staatlich anerkannter" Cyborg
 
 # Presenter Notes
 
-- originalquote: "Never tell a child, you have a soul. Teach him, you are a soul; you have a body.’
-- oft fälschlich C.S. Lewis zugeschrieben (Narnia)
-- Überwindung der Bindung von Mensch an den natürlichen Körper
+- "Never tell a child, you have a soul. Teach him, you are a soul; you have a body.’
+    - oft fälschlich C.S. Lewis zugeschrieben (Narnia)
+- No more Bindung von Mensch==natürlichen Körper
 - Mensch ist ein Bewusstsein, welches sich seiner bewusst ist
 
 ---
@@ -177,8 +191,9 @@ Erster "staatlich anerkannter" Cyborg
 
 # Presenter Notes
 
-- Wenn wir uns vom Körper lösen, was bedeutet das
+- Wenn wir unser Selbstdefinition vom Körper lösen, was bedeutet das
 - Was müssen wir ändern?
+- brauchen wir neue/andere Rechte?
 
 ---
 # Recht auf Modifikation des eigenen Körpers.
@@ -188,17 +203,18 @@ Erster "staatlich anerkannter" Cyborg
 - mein Körper ist mein Besitz
 - nur freiwillig
     - Kein Zwang eine Niere zu verkaufen
-- aber ohne die bestehenden Hürden
+- Biohacking usw.
+- Re-evaluation der bestehenden Hürden
 
 ---
 # Recht auf digitale Unversehrtheit.
 
 # Presenter Notes
 
-- mich von meinen Daten abzuschneiden ist illegal
-    - sie kopieren kann erlaubt sein (vgl. Fingerabdrucknahme)
-- erzwungene Accountschließungen
+- mich von Daten, Accounts abschneiden ist illegal
+    - kopieren kann ok sein (vgl. Fingerabdrucknahme)
 - DDOS auf meinen Datenspeicher ist körperlichen Angriffen gleichzustellen
+- Wo soll die Grenze liegen?
 
 ---
 # Recht auf Teilhabe am Netz.
@@ -207,18 +223,33 @@ Erster "staatlich anerkannter" Cyborg
 
 - Mich vom soziotechnischen Netz zu trennen nimmt mir Menschlichkeit
 - Netzzugang ist Menschenrecht (nicht nur Bürgerrecht!)
+---
+# Ab wann stehen künstlichen Agenten Grundrechte zu?
+
+# Presenter Notes
+
+- SciFi: Mensch!=Körper
+  => Upload des Bewusstsseins?
+- Falls absurd:
+  - Wie entstehen Grundrechte aus Biologischem Körper?
 
 --- 
-# Let's fix it.
+# Working is hard, let's go shopping?
 
 # Presenter Notes
 
 - Viel Arbeit
 - Änderung der Perspektive gesamtgesellschaftliches Problem
+- Aber notwendig: Immer mehr von uns ist digital
+- Wenn wir uns nicht kümmern, regelt es sich irgendwann selbst
 
 ---
-# Danke
+# Discuss
 
+# Presenter Notes
+
+- Vielen Dank für die Aufmerksamkeit
+- Whaddaya think?
 --- 
 
 * Folien:
